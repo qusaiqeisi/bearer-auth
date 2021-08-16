@@ -25,7 +25,7 @@
 ## deployment links
 
 - qusai-basic-auth --> [repo](https://github.com/qusaiqeisi/basic-auth)
-- PR --> [pull requist](https://github.com/qusaiqeisi/basic-auth/pull/1)
+- PR --> [pull requist](https://github.com/qusaiqeisi/bearer-auth/pull/1)
 - repo action -->[action](https://github.com/qusaiqeisi/basic-auth/runs/3333871600)
 - heruko --> [heruko](https://qusai-basic-auth.herokuapp.com/)
 
